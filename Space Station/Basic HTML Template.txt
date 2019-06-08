@@ -1,0 +1,15 @@
+<!DOCTYPE! hmtl>
+<html lang ="en"/>
+
+<head> 
+   <meta charset ="UTF-8"/>
+   <Title> Basic HTMl Template </Title>
+</head> 
+
+<body> 
+
+
+
+
+</body> 
+</html> 

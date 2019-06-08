@@ -1,0 +1,23 @@
+html { 
+   background-color: #bce7fd; 
+} 
+
+body { 
+   font: 12; 
+   text-align: center; 
+} 
+
+img  { 
+   padding: 2px;  
+   outline: double; 
+   outline-style: dashed; 
+   outline-color: #ff0000;
+   max-width: 100%;
+   width: 600px; 
+   height: 300px; 
+} 
+
+iframe  { 
+  width: 560px; 
+  height: 315px; 
+}
